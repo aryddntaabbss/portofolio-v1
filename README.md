@@ -7,5 +7,3 @@ I created this website to showcase my work. I’m always striving to create some
 ## Tech Stack
 
 **Client:** React, Next.js, TypeScript, TailwindCSS, Framer Motion, GSAP.
-
-**Hosting:** Vercel.
