@@ -38,17 +38,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "A.A.A — Frontend Engineer",
+    title: "A.A.A",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
+    url: "https://aryaddinata-site-v1.vercel.app/",
+    siteName: "https://aryaddinata-site-v1.vercel.app/",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://avatars.githubusercontent.com/u/114304280?s=400&u=ffbd2057d0d8be6b1abe767e861c4a88eb350b6d&v=4",
         width: 1200,
         height: 630,
-        alt: "A.A.A — Frontend Engineer",
+        alt: "A.A.A",
       },
     ],
     locale: "en-US",
@@ -56,13 +56,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "A.A.A — Frontend Engineer",
+    title: "A.A.A",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://avatars.githubusercontent.com/u/114304280?s=400&u=ffbd2057d0d8be6b1abe767e861c4a88eb350b6d&v=4",
     ],
   },
   robots: {
