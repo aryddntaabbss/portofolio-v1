@@ -12,11 +12,11 @@ const syne = Syne({
 
 
 export const metadata: Metadata = {
-  title: "A.A.A",
+  title: "Agil Aryaddinata Abbas",
   description:
     "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
-  applicationName: "A.A.A",
+  applicationName: "Agil Aryaddinata Abbas",
   keywords: [
     "freelance",
     "developer",
@@ -38,17 +38,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "A.A.A",
+    title: "Agil Aryaddinata Abbas",
     description:
       "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
     url: "https://aryaddinata-site-v1.vercel.app/",
     siteName: "https://aryaddinata-site-v1.vercel.app/",
     images: [
       {
-        url: "https://drive.google.com/file/d/1j6oixyTY84V0i_7FnsH5Nszl2Aoxan9D/view?usp=drivesdk",
+        url: "https://avatars.githubusercontent.com/u/114304280?s=400&u=c7a45f3f211e2944ea2bb7b309ab4d027de73a10&v=4",
         width: 1200,
         height: 630,
-        alt: "A.A.A",
+        alt: "Agil Aryaddinata Abbas",
       },
     ],
     locale: "en-US",
@@ -56,13 +56,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "A.A.A",
+    title: "Agil Aryaddinata Abbas",
     description:
       "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
-      "https://drive.google.com/file/d/1j6oixyTY84V0i_7FnsH5Nszl2Aoxan9D/view?usp=drivesdk",
+      "https://avatars.githubusercontent.com/u/114304280?s=400&u=c7a45f3f211e2944ea2bb7b309ab4d027de73a10&v=4",
     ],
   },
   robots: {
