@@ -12,11 +12,11 @@ const syne = Syne({
 
 
 export const metadata: Metadata = {
-  title: "Agil Aryaddinata Abbas",
+  title: "MyProfile - Agil Aryaddinata Abbas",
   description:
     "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
-  applicationName: "Agil Aryaddinata Abbas",
+  applicationName: "MyProfile - Agil Aryaddinata Abbas",
   keywords: [
     "freelance",
     "developer",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Agil Aryaddinata Abbas",
+    title: "MyProfile - Agil Aryaddinata Abbas",
     description:
       "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
     url: "https://aryaddinata-site-v1.vercel.app/",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
         url: "https://avatars.githubusercontent.com/u/114304280?s=400&u=c7a45f3f211e2944ea2bb7b309ab4d027de73a10&v=4",
         width: 1200,
         height: 630,
-        alt: "Agil Aryaddinata Abbas",
+        alt: "MyProfile - Agil Aryaddinata Abbas",
       },
     ],
     locale: "en-US",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Agil Aryaddinata Abbas",
+    title: "MyProfile - Agil Aryaddinata Abbas",
     description:
       "Frontend Developer and Product Designer, currently studying Informatics Engineering. Focused on interfaces and experiences, working remotely from North Molucas, Indonesia.",
     creator: "victorwill__",
