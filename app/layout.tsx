@@ -12,7 +12,7 @@ const syne = Syne({
 
 
 export const metadata: Metadata = {
-  title: "A.A.A — Frontend Engineer",
+  title: "A.A.A",
   description:
     "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",

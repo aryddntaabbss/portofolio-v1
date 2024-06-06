@@ -56,23 +56,12 @@ export const devProjects = [
   },
 
   // {
-  //   id: 3,
-  //   name: "Link Shortener",
-  //   description:
-  //     "A website that reduces the length of your URL using Bit.ly's API",
-  //   technologies: ["JavaScript", "CSS", "Bit.ly's API"],
-  //   github: "https://github.com/victorcodess/url-shortener",
-  //   demo: "https://url-shortener-nine-delta.vercel.app",
-  //   image: require(".//../../public/projects/shortener-new.webp"),
-  //   available: true,
-  // },
-  // {
   //   id: 4,
   //   name: "Carpooling Service",
   //   description:
   //     "TMTM helps Covenant University students find fellow students who are headed to the same location, so they can share a ride and split the cost.",
   //   technologies: ["Material UI", "React", "Formik"],
-  //   github: "https://github.com/victorcodess/carpooling-service",
+  //   github: "https://github.com/aryddntaabbss",
   //   demo: "",
   //   image: require(".//../../public/projects/carpool-new.webp"),
   //   available: false,
@@ -83,7 +72,7 @@ export const devProjects = [
   //   description:
   //     "This is platform for Microsoft Learn Student Ambassadors to shorten links, append their sharing IDs and generate event certificates.",
   //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
-  //   github: "https://github.com/msp-nigeria/mlsc.ng-frontend",
+  //   github: "https://github.com/aryddntaabbss",
   //   demo: "",
   //   image: require(".//../../public/projects/mlsc.png"),
   //   available: false,
