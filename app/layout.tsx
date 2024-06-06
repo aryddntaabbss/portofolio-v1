@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
-      "https://avatars.githubusercontent.com/u/114304280?s=400&u=ffbd2057d0d8be6b1abe767e861c4a88eb350b6d&v=4",
+      "https://drive.google.com/file/d/1j6oixyTY84V0i_7FnsH5Nszl2Aoxan9D/view?usp=drivesdk",
     ],
   },
   robots: {
