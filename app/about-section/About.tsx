@@ -64,7 +64,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "PHP, Laravel, JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, HTML5, Git/GitHub, NextAuth, Formik."
+                  "PHP, Laravel, JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, HTML5, Git/GitHub."
                 }
               />
             </div>
