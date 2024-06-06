@@ -23,10 +23,11 @@ const BlogCard = ({ title, image, url, date, available }: blogProps) => {
           {title}
         </h3>
       </div>
-
+ 
       <div className="absolute bottom-0 mb-5 flex w-[90%] items-center justify-between text-[14px] font-bold text-[#95979D]">
         {available ? (
           <>
+          
             {" "}
             <p>{date}</p>{" "}
             <Link

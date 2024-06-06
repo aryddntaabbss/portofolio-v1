@@ -2,6 +2,7 @@ import SongCard from "./SongCard";
 import { songs, SongProps } from "./songDetails";
 import "../animations/animate.css";
 
+
 const SongCarousel = () => {
   return (
     <div className="animate absolute bottom-5 flex w-[1100%] border-[1px] border-[#0E1016] sm:w-[680%] md:w-[710%] lg:w-[600%] xl:w-[400%]">

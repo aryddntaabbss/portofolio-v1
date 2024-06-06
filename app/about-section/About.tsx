@@ -3,6 +3,7 @@ import "../animations/animate.css";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 
+
 const About = () => {
   return (
     <section

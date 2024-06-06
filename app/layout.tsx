@@ -10,6 +10,7 @@ const syne = Syne({
   weight: ["400", "500", "600", "700", "800"],
 });
 
+
 export const metadata: Metadata = {
   title: "A.A.A — Frontend Engineer",
   description:

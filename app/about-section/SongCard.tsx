@@ -2,6 +2,7 @@ import Image from "next/image";
 import { SongProps } from "./songDetails";
 import Link from "next/link";
 
+
 const SongCard = ({ title, artist, image, link }: SongProps) => {
   return (
     <Link href={link} target="_blank" aria-label="Check out song on Spotify">

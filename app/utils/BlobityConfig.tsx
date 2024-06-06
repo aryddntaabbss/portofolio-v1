@@ -17,3 +17,4 @@ export const initialBlobityOptions = {
     radius: 4,
     magnetic: true,
   }  
+  
