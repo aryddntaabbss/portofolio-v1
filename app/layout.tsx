@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     siteName: "https://aryaddinata-site-v1.vercel.app/",
     images: [
       {
-        url: "https://avatars.githubusercontent.com/u/114304280?s=400&u=ffbd2057d0d8be6b1abe767e861c4a88eb350b6d&v=4",
+        url: "https://drive.google.com/file/d/1j6oixyTY84V0i_7FnsH5Nszl2Aoxan9D/view?usp=drivesdk",
         width: 1200,
         height: 630,
         alt: "A.A.A",
