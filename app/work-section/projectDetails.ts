@@ -16,8 +16,8 @@ export const devProjects = [
     description:
       "A Landing Page built for software startups and small businesses, to showcase their services and mark their online presence.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/victorcodess/propellent",
-    demo: "https://propellent.vercel.app/",
+    github: "https://github.com/aryddntaabbss",
+    demo: "#",
     image: require(".//../../public/projects/propellent-new-flip.png"),
     available: true,
   },
@@ -27,8 +27,8 @@ export const devProjects = [
     description:
       "Flixify lets you seamlessly explore movies and TV series, add bookmarks, and search across all pages. It offers user authentication along with a theme switch.",
     technologies: ["Next.js", "Typescript", "Prisma"],
-    github: "https://github.com/victorcodess/flixify",
-    demo: "https://flixify.victorwilliams.me/",
+    github: "https://github.com/aryddntaabbss",
+    demo: "#",
     image: require(".//../../public/projects/flixify-flip.png"),
     available: true,
   },
@@ -38,8 +38,8 @@ export const devProjects = [
     description:
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
     technologies: ["React", "CSS", "Chart.js"],
-    github: "https://github.com/victorcodess/weather-forecast-website",
-    demo: "https://sky-watch.vercel.app/",
+    github: "https://github.com/aryddntaabbss",
+    demo: "#",
     image: require(".//../../public/projects/skywatch-flip.png"),
     available: true,
   },
@@ -49,8 +49,8 @@ export const devProjects = [
     description:
       "An image generator website that allows users to generate, combine, and download images.",
     technologies: ["React", "CSS", "Merge Images"],
-    github: "https://github.com/victorcodess/alpaca-image-generator",
-    demo: "http://alpaca-image-generator-beta.vercel.app",
+    github: "https://github.com/aryddntaabbss",
+    demo: "#",
     image: require(".//../../public/projects/alpaca-flip.png"),
     available: true,
   },

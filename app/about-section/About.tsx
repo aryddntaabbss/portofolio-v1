@@ -12,7 +12,7 @@ const About = () => {
       <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={
-            "I MAKE BRANDS BEAUTIFUL, WEBSITES POWERFUL AND CONTENT CAPTIVATING."
+            "CRAFTING SEAMLESS USER EXPERIENCES, ONE LINE AT A TIME."
           }
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
@@ -36,12 +36,12 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "In addition to my work in software development, I’m also an active leader and member of tech communities on campus, including the Google Developer Student Clubs and Microsoft Learn Student Ambassadors."
+                "Apart from software development, I am also an active student at Informatics Engineering at Khairun University."
               }
             />
             <AnimatedBody
               text={
-                "Whether it’s binge-watching my favorite anime series, cheering on Manchester United, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
+                "Whether it’s binge-watching my favorite anime series, cheering on Manchester City, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
               }
             />
             <AnimatedBody
@@ -63,7 +63,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
+                  "PHP, Laravel, JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, HTML5, Git/GitHub, NextAuth, Formik."
                 }
               />
             </div>
@@ -93,7 +93,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Figma, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, UX Research, UI Design, Prototyping."
+                  "Figma, FigJam, UX Research, UI Design, Prototyping."
                 }
               />
             </div>
